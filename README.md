@@ -1,3 +1,3 @@
 # SideMenu-bR
 Animated Menu Bar like Twitter
-![Alt Text](SideMenu bR.gif)
+![alt-text](https://github.com/berupu/SideMenu-bR/blob/main/SideMenu%20bR.gif)
